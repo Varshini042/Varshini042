@@ -25,17 +25,7 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
 
 ### 🛠️ Tech Stack
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-9146FF?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-
-<div style="display: flex; gap: 24px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 100px; flex-wrap: wrap; align-items: center; justify-content: center;">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" width="40" />
