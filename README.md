@@ -35,40 +35,19 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
-<table>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="40"/><br/>Power BI
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br/>Tableau
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" width="40"/><br/>MS SQL Server
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/><br/>PySpark
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/>Azure
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" width="40"/><br/>Microsoft Fabric
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="40"/><br/>Excel
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="60"/><br/>Databricks
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 24px; flex-wrap: wrap; align-items: center;">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" width="40" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="60" />
+</div>
+
 
 ---
 
