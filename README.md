@@ -36,16 +36,16 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PySpark-E34F26?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_BI_logo_black.svg" width="40" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" alt="Tableau" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Microsoft_Excel_2013-2019_logo.svg" width="40" alt="Excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Spark_logo.svg" width="40" alt="PySpark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Databricks_Logo.png" width="40" alt="Databricks" />
 </div>
 
 ---
