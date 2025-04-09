@@ -50,7 +50,7 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub</td>
-    <td align="center"><img src="https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png" width="60"/><br/>Databricks</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="60"/><br/>Databricks</td>
   </tr>
 </table>
 ---
