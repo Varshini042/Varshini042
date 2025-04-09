@@ -37,16 +37,16 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
 
 <table>
   <tr>
-    <td align="center"><img src="https://logos-world.net/wp-content/uploads/2021/10/Microsoft-Power-BI-Logo.png" width="40"/><br/>Power BI</td>
+    <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="40"/><br/>Power BI</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br/>Tableau</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.png" width="40"/><br/>MS SQL Server</td>
+    <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" width="40"/><br/>MS SQL Server</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
   </tr>
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/><br/>PySpark</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/>Azure</td>
     <td align="center"><img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png" width="40"/><br/>Microsoft Fabric</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-1411846-1194336.png" width="40"/><br/>Excel</td>
+    <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="40"/><br/>Excel</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub</td>
