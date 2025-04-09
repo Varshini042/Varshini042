@@ -45,12 +45,12 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/><br/>PySpark</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/>Azure</td>
-    <td align="center"><img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png" width="40"/><br/>Microsoft Fabric</td>
+    <td align="center"><img src="https://i.imgur.com/wqLQeYJ.png" width="40"/><br/>Microsoft Fabric</td>
     <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="40"/><br/>Excel</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Databricks_Logo.png" width="60"/><br/>Databricks</td>
+    <td align="center"><img src="https://i.imgur.com/Coo6WKr.png" width="50"/><br/>Databricks</td>
   </tr>
 </table>
 ---
