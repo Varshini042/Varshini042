@@ -52,9 +52,7 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
 
 ### 📬 Contact Me
 
-📧 [Email Me](mailto:varshini042@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/varshini-sreeramsetty)  
-🌐 [Portfolio](https://varshini-vistas-portfolio.lovable.app)
+📧 [Email Me](mailto:varshini042@gmail.com)   🔗 [LinkedIn](https://www.linkedin.com/in/varshini-sreeramsetty)   🌐 [Portfolio](https://varshini-vistas-portfolio.lovable.app)
 
 ---
 
