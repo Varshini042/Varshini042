@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Welcome Banner](assets/varshini-header.png)
+![Welcome Banner](Banner.png)
 
 # Hi, I'm Varshini 👋
 
