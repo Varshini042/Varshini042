@@ -35,41 +35,34 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
-<div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  
-  <!-- Microsoft SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="Microsoft SQL Server" />
-  
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
-
-  <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-
-  <!-- Power BI -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-power-bi-3521540-2945093.png" width="40" alt="Power BI" />
-
-  <!-- Tableau -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" alt="Tableau" />
-
-  <!-- Excel -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-1411846-1194336.png" width="40" alt="Excel" />
-
-  <!-- PySpark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60" alt="PySpark" />
-
-  <!-- Databricks -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Databricks_Logo.png" width="60" alt="Databricks" />
-
-  <!-- Microsoft Fabric -->
-  <img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" width="40" alt="Microsoft Fabric" />
-</div>
-
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/>Azure</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>Git</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-power-bi-3521540-2945093.png" width="40"/><br/>Power BI</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/><br/>Tableau</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-1411846-1194336.png" width="40"/><br/>Excel</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/><br/>PySpark</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Databricks_Logo.png" width="60"/><br/>Databricks</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" width="40"/><br/>Microsoft Fabric</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br/>SQLite</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/>Jupyter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" width="40"/><br/>MS SQL Server</td>
+  </tr>
+</table>
 ---
 
 ### 🌱 Learning & Goals
