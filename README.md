@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a data enthusiast with **2 years of experience** transforming raw data into meaningful business insights. I’m currently working as a **Data Analyst** at **Korcomptenz Inc.**, based in **Hyderabad, Telangana**.
+I'm a data enthusiast with **2 years of experience** transforming raw data into meaningful business insights. My work blends strong analytical skills with a deep understanding of data tools and technologies.
 
 I specialize in:
 
