@@ -1,13 +1,9 @@
 <!-- Banner -->
-<p align="center">
-  <img src="assets/varshini-header.png" alt="Welcome Banner" width="100%" />
-</p>
+![Welcome Banner](assets/varshini-header.png)
 
-<h1 align="center">Hi, I'm Varshini 👋</h1>
+# Hi, I'm Varshini 👋
 
-<p align="center">
-  💼 Data Analyst | 🧠 Curious Learner | 🛠️ Turning Data Into Stories  
-</p>
+💼 Data Analyst | 🧠 Curious Learner | 🛠️ Turning Data Into Stories
 
 ---
 
@@ -29,15 +25,15 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
 
 ### 🛠️ Tech Stack
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-FF9900?style=flat&logo=apache-spark&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/-Fabric-9146FF?style=flat&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-9146FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -52,14 +48,10 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
 
 ### 📬 Contact Me
 
-<p align="center">
-  ✉️ <a href="mailto:varshini042@gmail.com">varshini042@gmail.com</a> •  
-  💼 <a href="https://www.linkedin.com/in/varshini-sreeramsetty" target="_blank">LinkedIn</a> •  
-  🌐 <a href="https://varshini-vistas-portfolio.lovable.app" target="_blank">Portfolio</a>
-</p>
+✉️ Email: [varshini042@gmail.com](mailto:varshini042@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/varshini-sreeramsetty](https://www.linkedin.com/in/varshini-sreeramsetty)  
+🌐 Portfolio: [varshini-vistas-portfolio.lovable.app](https://varshini-vistas-portfolio.lovable.app)
 
 ---
 
-<p align="center">
-  🚀 Let’s connect, collaborate, and create impact through data!
-</p>
+🚀 Let’s connect, collaborate, and create impact through data!
