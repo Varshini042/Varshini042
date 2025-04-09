@@ -45,7 +45,7 @@ I love simplifying data, finding hidden patterns, and making data work for peopl
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/><br/>PySpark</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br/>Azure</td>
-     <td align="center"><img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png" width="40"/><br/>Microsoft Fabric</td>
+     <td align="center"><img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" width="40"/><br/>Microsoft Fabric</td>
     <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" width="40"/><br/>Excel</td>
   </tr>
   <tr>
