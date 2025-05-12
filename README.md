@@ -3,7 +3,7 @@
 
 # Hi, I'm Varshini 👋
 
-💼 Data Analyst | 🧠 Curious Learner | 🛠️ Turning Data Into Stories
+💼 Data Engineer | 📊 Data Analyst | 🧠 Curious Learner | 🛠️ Turning Data Into Stories
 
 ---
 
